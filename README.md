@@ -1,3 +1,8 @@
-# Team Fortress 2 Seby's Config
+# Lian's tf2 configs n' mods
 
-Simple information: https://pastebin.com/raw/ZhT9gtj0
+Notes:
+
+HUD > LightHUD edit > "Steam\steamapps\common\Team Fortress 2\tf\custom"
+Lian Mods > "Steam\steamapps\common\Team Fortress 2\tf\custom"
+Config > autoexec.cfg & modules.cfg > "Steam\steamapps\common\Team Fortress 2\tf\cfg\overrides"
+Launch Options > "-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -no_texture_stream -enablefakeip"
